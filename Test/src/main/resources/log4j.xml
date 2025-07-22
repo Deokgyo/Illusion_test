@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.itwillbs.Illusion_test">
+	<logger name="com.itwillbs.Illsion_test">
 		<level value="info" />
 	</logger>
 	
