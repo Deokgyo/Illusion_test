@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-깃 test 파일
+	깃 test 파일
 </body>
 </html>
